@@ -1,8 +1,8 @@
- Dog-Breed-Classification:
+ # Dog-Breed-Classification:
  
  Dog Breed Classification using Convolutional Neural Networks.
  
- Project Overview:
+ ## Project Overview:
  
  In this project, I built a convolutional neural network (CNN) that can identify the breed of the dog from the image provided to it.
  I have used 2 CNN models for this project. 
